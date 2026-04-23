@@ -102,13 +102,11 @@ const humberto = {
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/1byba3/PROYECTO_1">
+  <a href="https://github.com/1byba3/mi-repo-de-la-formacion-docente">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1byba3&repo=PROYECTO_1&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=a0b8d8&bg_color=0d1117"/>
   </a>
   &nbsp;
-  <a href="https://github.com/1byba3/PROYECTO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1byba3B&repo=PROYECTO_2&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=a0b8d8&bg_color=0d1117"/>
-  </a>
+ 
 </div>
 
 <br/>
